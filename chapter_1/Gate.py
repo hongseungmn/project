@@ -1,4 +1,5 @@
 import numpy as np
+import matplotlib.pyplot as plt
 
 def NAND(x1,x2):
     x = np.array([x1,x2])
